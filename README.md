@@ -9,7 +9,7 @@ Atualmente estudando as ferramentas do desenvolvimento para a Web pretendo agreg
 ## :sunglasses: &nbsp;Me segue nas redes
 <a href="https://www.linkedin.com/in/gushenriquetorres" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gustavosantos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>     <a href="https://instagram.com/maykbrito" target="_blank">
+</a>     <a href="https://www.instagram.com/_gushenriquetorres/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-insta_gustavohenrique-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a><a href="https://twitter.com/gushenriquet" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gustavohenrique-05122A?style=flat&logo=twitter" alt="twitter"/>  
