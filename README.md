@@ -2,7 +2,7 @@
 
 E você é sempre bem vindo por aqui. :smile: \
 Sempre fui fascinado por tecnologia e perdi as contas de quantas noites passei estudando e fuçando sobre. :heart::computer: \
-Hoje dedico meu tempo na especialização em teste de softwares e por aqui você vai encontrar vários projetos de automação utilizando o Cypress.
+Hoje dedico meu tempo na especialização em teste de softwares e por aqui você vai encontrar vários projetos de automação utilizando o Cypress. \
 Ah, como também sou fáscinado pelo desenvolvimento Web, te convido a ver algunas landing pages que fiz como case de estudo.
 
 ## 🛠 &nbsp;Tech Stacks
